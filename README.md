@@ -16,7 +16,7 @@ This assignment covers fundamental CNN operations and data preprocessing concept
 task 2 : Pooling operations  
 3, Data standardization and normalization on the Iris dataset
 Model accuracy comparison
--Easily can access the the gitup link : "https://github.com/santhoshK12/Home-assignment-2/tree/main"
+-Easily can access the the gitup link : "https://github.com/Poojitha-30/CS5720-HW2"
 🧪 Question 1: Convolution Operations with Different Parameters
 
 Step 1: Define the Input Matrix
